@@ -4,7 +4,7 @@ Selamat datang di **SIPFASKA**! Solusi digital untuk mempermudah pelaporan, pema
 
 [![Versi Proyek](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)](https://github.com/adammiftah/sipfaska)
 [![Framework Digunakan](https://img.shields.io/badge/Framework-Laravel_10-FF2D20?style=for-the-badge&logo=laravel)](https://laravel.com)
-[![PHP Version](https://img.shields.io/badge/PHP-%3E%3D8.1-777BB4?style=for-the-badge&logo=php)](https://www.php.net/)
+[![PHP Version](https://img.shields.io/badge/PHP-%3E%3D8.3-777BB4?style=for-the-badge&logo=php)](https://www.php.net/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ---
